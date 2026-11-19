@@ -1,0 +1,6 @@
+{
+  "name": "BizAssist AI Support Platform",
+  "description": "Multi-tenant enterprise AI support platform connecting customers, support specialists, and operations administrators with real-time Supabase persistence and Gemini auto-triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
